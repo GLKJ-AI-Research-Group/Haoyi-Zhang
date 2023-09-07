@@ -20,3 +20,5 @@ SDXL-1.0-refiner：https://huggingface.co/stabilityai/stable-diffusion-xl-refine
 pip install -r requirements.txt
 
 python main.py
+
+将所得到的网页地址复制粘贴到浏览器上即可操作
