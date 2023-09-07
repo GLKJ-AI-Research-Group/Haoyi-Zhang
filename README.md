@@ -7,7 +7,6 @@ ComfyUI，SD可视化网页
 SDXL-0.9-base：https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9
 
 SDXL-0.9-refiner：https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-0.9
-
 SDXL-1.0-base：https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
 
 SDXL-1.0-refiner：https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0
