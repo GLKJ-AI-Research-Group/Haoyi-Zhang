@@ -14,3 +14,7 @@ SDXL-1.0-base：https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
 SDXL-1.0-refiner：https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0
 
 将下载好的模型放在ComfyUI\models\checkpoints文件夹下
+
+打开命令窗，进入ComfyUI文件夹所在地址，输入下面的指令：
+
+python main.py
