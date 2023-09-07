@@ -26,3 +26,5 @@ python main.py
 ComfyUI具体操作流程请参考：https://zhuanlan.zhihu.com/p/643420260
 
 SDXL论文：https://arxiv.org/pdf/2307.01952v1.pdf
+
+SDXL论文详解：https://zhuanlan.zhihu.com/p/642496862
