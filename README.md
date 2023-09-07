@@ -24,3 +24,5 @@ python main.py
 将所得到的网页地址复制粘贴到浏览器上即可操作
 
 ComfyUI具体操作流程请参考：https://zhuanlan.zhihu.com/p/643420260
+
+SDXL
