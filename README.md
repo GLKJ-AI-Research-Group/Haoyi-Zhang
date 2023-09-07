@@ -17,4 +17,6 @@ SDXL-1.0-refiner：https://huggingface.co/stabilityai/stable-diffusion-xl-refine
 
 打开命令窗，进入ComfyUI文件夹所在地址，输入下面的指令：
 
+pip install -r requirements.txt
+
 python main.py
