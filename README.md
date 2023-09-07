@@ -3,7 +3,7 @@ ComfyUI，SD可视化网页
 
 首先，请先下载SDXL或者是SD的模型
 
-模型下载地址：
+所有SD模型下载地址：https://huggingface.co/stabilityai
 
 SDXL-0.9-base：https://huggingface.co/stabilityai/stable-diffusion-xl-base-0.9
 
